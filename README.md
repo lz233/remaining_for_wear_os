@@ -1,5 +1,5 @@
 # Remaining For Wear os
-Remaining on wear os by google
++1s on wear os
 
 ((Also support ticwear
 
