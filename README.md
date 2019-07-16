@@ -6,6 +6,7 @@ Remaining on wear os by google
 ![](https://github.com/lz233/remaining_for_wear_os/blob/master/1.png)
 ![](https://github.com/lz233/remaining_for_wear_os/blob/master/2.png)
 ![](https://github.com/lz233/remaining_for_wear_os/blob/master/3.png)
+
 ## Getting Started
 1.Download the [release file](https://github.com/lz233/remaining_for_wear_os/releases)
 
