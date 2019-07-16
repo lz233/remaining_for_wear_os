@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">+1s</string>
+    <string name="first_tips">長按可奉告</string>
+    <string name="your_real_time">真實時間：</string>
+    <string name="background_color">背景顏色</string>
+    <string name="about_licenses">開放原始代碼授權</string>
+    <string name="about_developer">關於作者</string>
+    <string name="developer_name">lz差不多是條鹹魚了</string>
+    <string name="onetext">願你被世界溫柔以待。</string>
+</resources>

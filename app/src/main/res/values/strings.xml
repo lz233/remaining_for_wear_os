@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">+1s</string>
+    <string name="hello_world" translatable="false">Hello Square World!</string>
+    <string name="first_tips">long press to view information</string>
+    <string name="your_real_time">real time:</string>
+    <string name="background_color">Background Color</string>
+    <string name="about_licenses">licenses</string>
+    <string name="about_developer">About Developer</string>
+    <string name="developer_name">lz233</string>
+    <string name="onetext">May you be treated with tenderness in the world.</string>
+</resources>
