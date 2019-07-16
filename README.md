@@ -28,4 +28,4 @@ Remaining on wear os by google
 
 2.Open it in Android Studio and build it.
 
-* You need to pay attention to the open source license of this project.
+* You need to pay attention to the [open source license of this project](https://github.com/lz233/remaining_for_wear_os/blob/master/LICENSE).
